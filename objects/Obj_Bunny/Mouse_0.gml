@@ -1,0 +1,3 @@
+sprite_index=spr_Bunny_Wounded_walking
+
+ 
