@@ -1,6 +1,9 @@
 Bullet_count=10
 bullet_box=0
 traps=0
+animals=0
+dead=false
+safe=true
 
 map=[[0,0,0,0,0,0,0,0,0,0,0],
     [0,0,0,0,0,0,0,0,0,0,0],
