@@ -33,6 +33,7 @@
     {"id":{"name":"spr_Bunny_walk","path":"sprites/spr_Bunny_walk/spr_Bunny_walk.yy",},},
     {"id":{"name":"spr_Bunny_Wounded_still","path":"sprites/spr_Bunny_Wounded_still/spr_Bunny_Wounded_still.yy",},},
     {"id":{"name":"spr_Bunny_Wounded_walking","path":"sprites/spr_Bunny_Wounded_walking/spr_Bunny_Wounded_walking.yy",},},
+    {"id":{"name":"Spr_button","path":"sprites/Spr_button/Spr_button.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",

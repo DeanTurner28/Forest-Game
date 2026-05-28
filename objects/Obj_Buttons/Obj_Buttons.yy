@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"Spr_button",
+    "path":"sprites/Spr_button/Spr_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
