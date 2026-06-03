@@ -1,6 +1,6 @@
 {
   "$GMSprite":"v2",
-  "%Name":"spr_Crow_b_flying_1",
+  "%Name":"spr_Crow_w_flying",
   "bboxMode":0,
   "bbox_bottom":26,
   "bbox_left":5,
@@ -28,19 +28,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"37a8f34b-d2ba-4bc3-9c09-fa53406282f9","blendMode":0,"displayName":"default","isLocked":false,"name":"37a8f34b-d2ba-4bc3-9c09-fa53406282f9","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_Crow_b_flying_1",
+  "name":"spr_Crow_w_flying",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"forest",
-    "path":"forest.yyp",
+    "name":"Crow_sprites",
+    "path":"folders/Sprite/Crow_sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"spr_Crow_b_flying",
+    "%Name":"spr_Crow_w_flying",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -64,7 +64,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_Crow_b_flying",
+    "name":"spr_Crow_w_flying",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -76,28 +76,28 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6dbaec5c-e486-42bd-b546-cb35f81418a6","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"6dbaec5c-e486-42bd-b546-cb35f81418a6","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"6f1c77ce-3e10-4b73-afb8-e116b0f7ffd1","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a7db8170-217c-4939-8cea-93d376133fd3","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a7db8170-217c-4939-8cea-93d376133fd3","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"8a2e61da-3ab3-4b67-aeb5-ab99ae63ca53","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fc53a244-3799-4e46-a05c-9e38b9d3be9c","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"fc53a244-3799-4e46-a05c-9e38b9d3be9c","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d147c1bc-0ca4-4e15-ba1d-0b661761632a","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ace988bc-da9d-42af-aee0-a440be46651f","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ace988bc-da9d-42af-aee0-a440be46651f","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1030f92a-ddb0-4b89-8ade-d03a1ef609f8","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9102b67-f6c0-4e7e-9d9f-b7c5dc3276e0","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a9102b67-f6c0-4e7e-9d9f-b7c5dc3276e0","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"220ae366-b504-4f4f-9bf9-71b579fe5d41","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f8b3242-093a-4726-ac6f-30552cd429a9","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2f8b3242-093a-4726-ac6f-30552cd429a9","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"72cb4adb-2629-43dc-a942-d4f849cc790a","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"478209d9-b7c1-4869-b8ea-43fe879be7b5","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"478209d9-b7c1-4869-b8ea-43fe879be7b5","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"2a808565-244b-4bf8-820a-d382c3427c3d","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d3df306-208d-42ec-abc0-292b6961ed2a","path":"sprites/spr_Crow_b_flying_1/spr_Crow_b_flying_1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4d3df306-208d-42ec-abc0-292b6961ed2a","path":"sprites/spr_Crow_w_flying/spr_Crow_w_flying.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b59d9de1-ccb2-49d3-9943-4e656a1af2b0","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
