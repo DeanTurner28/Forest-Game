@@ -8,8 +8,8 @@
   "name":"Obj_bounding",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Scenery",
+    "path":"folders/Objects/Scenery.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_button",
-    "path":"sprites/Spr_button/Spr_button.yy",
+    "name":"Spr_bounding_box",
+    "path":"sprites/Spr_bounding_box/Spr_bounding_box.yy",
   },
   "spriteMaskId":null,
   "visible":true,

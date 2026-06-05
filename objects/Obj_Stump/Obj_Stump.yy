@@ -9,8 +9,8 @@
   "name":"Obj_Stump",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Scenery",
+    "path":"folders/Objects/Scenery.yy",
   },
   "parentObjectId":null,
   "persistent":false,

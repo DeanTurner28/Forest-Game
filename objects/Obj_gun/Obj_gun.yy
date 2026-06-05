@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"Spr_Lee_Enfield",
+    "path":"sprites/Spr_Lee_Enfield/Spr_Lee_Enfield.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

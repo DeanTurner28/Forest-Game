@@ -1,7 +1,6 @@
-if place_meeting(x , y, obj_mouse){
+if place_meeting(x , y, Obj_mouse){
+    it = other.x
     shootable=false
-}
-else{
+} else{
     shootable=true
-
 }
