@@ -1,0 +1,4 @@
+image_xscale=Image_x_scale
+image_yscale=10
+image_index=0
+image_speed=0

@@ -33,3 +33,4 @@ if dead==false{
 	    go_to_y = random_range(sm_y_range, big_y_range);
 	}
 }
+

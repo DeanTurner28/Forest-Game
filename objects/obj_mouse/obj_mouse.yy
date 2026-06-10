@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3_1",
-    "path":"sprites/Sprite3_1/Sprite3_1.yy",
+    "name":"Spr_Mouse_Scope",
+    "path":"sprites/Spr_Mouse_Scope/Spr_Mouse_Scope.yy",
   },
   "spriteMaskId":null,
   "visible":true,
