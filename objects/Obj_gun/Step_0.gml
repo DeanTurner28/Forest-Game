@@ -1,0 +1,5 @@
+if image_index>=10{
+    image_speed=7
+}else{
+    
+}
