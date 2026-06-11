@@ -1,4 +1,5 @@
 // Inherit the parent event
 event_inherited();
 
-Obj_fade_out.visible = true
+
+Obj_Game.monster_chance*=.9

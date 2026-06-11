@@ -7,3 +7,6 @@ dead=false
 safe=true
 loaded=true
 money=0
+monster_chance=100
+spawn_position=random(5)
+monster_spawned=random(monster_chance)
