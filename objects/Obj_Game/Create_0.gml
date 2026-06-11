@@ -5,3 +5,5 @@ traps=0
 animals=0
 dead=false
 safe=true
+loaded=true
+money=20
