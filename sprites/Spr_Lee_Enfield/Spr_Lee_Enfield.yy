@@ -44,8 +44,8 @@
   },
   "origin":0,
   "parent":{
-    "name":"Sprite",
-    "path":"folders/Sprite.yy",
+    "name":"Gun",
+    "path":"folders/Sprite/Gun.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

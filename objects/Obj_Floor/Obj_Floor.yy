@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite3",
-    "path":"sprites/Sprite3/Sprite3.yy",
+    "name":"Spr_tileset",
+    "path":"sprites/Spr_tileset/Spr_tileset.yy",
   },
   "spriteMaskId":null,
   "visible":true,
