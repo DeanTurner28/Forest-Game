@@ -1,19 +1,22 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_mouse",
+  "%Name":"obj_button_Enter_building",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_mouse",
-  "overriddenProperties":[],
+  "name":"obj_button_Enter_building",
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"Obj_button_parent","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"propertyId":{"name":"button_text","path":"objects/Obj_button_parent/Obj_button_parent.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"enter shop",},
+  ],
   "parent":{
-    "name":"Gun",
-    "path":"folders/Objects/Gun.yy",
+    "name":"Buttons",
+    "path":"folders/Objects/Buttons.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_button_parent",
+    "path":"objects/Obj_button_parent/Obj_button_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Mouse_Scope",
-    "path":"sprites/Spr_Mouse_Scope/Spr_Mouse_Scope.yy",
+    "name":"Spr_button",
+    "path":"sprites/Spr_button/Spr_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
